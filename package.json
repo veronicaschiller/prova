@@ -1,0 +1,24 @@
+{
+  "name": "TIG-etseT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Calculadora.js",
+  "dependencies": {
+    "start": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelogluz/TIG-etseT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelogluz/TIG-etseT/issues"
+  },
+  "homepage": "https://github.com/angelogluz/TIG-etseT#readme"
+}
